@@ -882,7 +882,8 @@
   width: 61.45%;
   top: 29.17%;
   left: 38.55%;
-   text-transform: uppercase;
+  line-height: 38px;
+  text-transform: uppercase;
   display: inline-block;
 }
 .filter-list-icon {
@@ -908,6 +909,7 @@
   width: 64.04%;
   top: 29.17%;
   left: 35.96%;
+  line-height: 38px;
   text-transform: uppercase;
   display: inline-block;
 }
@@ -934,6 +936,7 @@
   width: 61.9%;
   top: 29.17%;
   left: 38.1%;
+  line-height: 38px;
   text-transform: uppercase;
   display: inline-block;
 }
