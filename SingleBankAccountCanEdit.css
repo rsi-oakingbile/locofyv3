@@ -37,11 +37,10 @@
   position: absolute;
   width: calc(100% - 32px);
   right: 16px;
-  bottom: -0.5px;
+  bottom: 0.5px;
   left: 16px;
   max-width: 100%;
   overflow: hidden;
-  height: 1px;
 }
 .input-value {
   color: var(--color-darkslategray);
@@ -97,9 +96,10 @@
 .top-child {
   flex: 1;
   position: relative;
+  top:1px;
   max-width: 100%;
   overflow: hidden;
-  height: 1px;
+
 }
 .top {
   position: absolute;
