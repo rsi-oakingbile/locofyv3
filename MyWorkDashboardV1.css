@@ -2,7 +2,7 @@
 .my-work-dashboard-v1-inner,
 .my-work-dashboard-v1-item {
   position: absolute;
-  top: 467px;
+  top: 267px;
   left: 112px;
   border-radius: var(--br-6xs);
   background-color: var(--white);
@@ -27,7 +27,7 @@
 }
 .my-work-dashboard-v1-child1 {
   position: absolute;
-  top: 435px;
+  top: 288px;
   left: 333px;
   border-radius: var(--br-6xs);
   border: 1px solid var(--revx-blue);
